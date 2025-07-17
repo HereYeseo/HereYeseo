@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Yeseo Kim
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksy2589022@gmail.com)](mailto:ksy2589022@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeseokim/)](https://www.linkedin.com/in/yeseokim/)
 
 ## 😄 About Me
 
